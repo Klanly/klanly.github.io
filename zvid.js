@@ -1,3 +1,3 @@
-var vio=document.getElementById('media');
+var vio=document.getElementsByName('media');
 alert(vio.src);
 //vio.play();
