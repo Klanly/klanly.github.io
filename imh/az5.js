@@ -1,4 +1,4 @@
-var gal=[//8157-2937
+const gal=[//8157-2937
 /* '1@001/0gtqwx2lyh',
 '1@001/2jne65cuop',
 '1@001/1kwgyd6zc7',
