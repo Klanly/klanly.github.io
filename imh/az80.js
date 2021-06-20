@@ -38,4 +38,4 @@ const gal=[//487-40
 '5@016/ikgeusa2ml',
 '5@016/g2s8kicy10',
 '5@016/nzwge0qhmc',
-'5@017/8n6jus29to',
+'5@017/8n6jus29to'];
